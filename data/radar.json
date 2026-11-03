@@ -1,1 +1,435 @@
-{"updated_at":null,"monitoring":"afventer første GitHub Actions-kørsel","sources":[]}
+{
+  "updated_at": "2026-11-03T20:42:13+00:00",
+  "monitoring": "periodisk, ikke realtid",
+  "sources": [
+    {
+      "id": "midttrafik",
+      "name": "Midttrafik – igangværende",
+      "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/igangvaerende-udbud/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [
+        {
+          "id": "1137e4de7e7b008a",
+          "title": "Udbud buskørsel",
+          "url": "https://midttrafik.dk/udbud/udbud-buskoersel/"
+        },
+        {
+          "id": "1e34b9a4d0c7408c",
+          "title": "Handicapkørsel",
+          "url": "https://midttrafik.dk/flextrafik/handicapkoersel/"
+        },
+        {
+          "id": "5084d7894c76e08d",
+          "title": "Patientbefordring",
+          "url": "https://midttrafik.dk/flextrafik/patientbefordring/"
+        },
+        {
+          "id": "8774bf9929d33fb0",
+          "title": "Kommunal kørsel",
+          "url": "https://midttrafik.dk/flextrafik/kommunal-koersel/"
+        },
+        {
+          "id": "89a3e12cf6032230",
+          "title": "Flextrafik",
+          "url": "https://midttrafik.dk/flextrafik/"
+        },
+        {
+          "id": "9140189b316207e8",
+          "title": "Udbud flextrafik og specialkørsel",
+          "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/"
+        }
+      ],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "midttrafik_all",
+      "name": "Midttrafik – Flextrafik",
+      "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [
+        {
+          "id": "1abf239b3eb1e2e0",
+          "title": "Udbud buskørsel",
+          "url": "https://midttrafik.dk/udbud/udbud-buskoersel/"
+        },
+        {
+          "id": "2fbfce5de08f0f55",
+          "title": "Her kan du læse mere om at blive godkendt som taxivognmand",
+          "url": "https://fstyr.dk/erhverv/taxi/taxivognmaend"
+        },
+        {
+          "id": "631b8b4c46ad3d30",
+          "title": "Udbud flextrafik og specialkørsel",
+          "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/"
+        },
+        {
+          "id": "758c61bbeef0a6ec",
+          "title": "Handicapkørsel",
+          "url": "https://midttrafik.dk/flextrafik/handicapkoersel/"
+        },
+        {
+          "id": "8b1a0db79f93456f",
+          "title": "Patientbefordring",
+          "url": "https://midttrafik.dk/flextrafik/patientbefordring/"
+        },
+        {
+          "id": "929aa81919af0932",
+          "title": "Ansøgning om tilladelse til erhvervsmæssig transport",
+          "url": "https://virk.dk/myndigheder/stat/fstyr/selvbetjening/Ansoegning_om_tilladelse_til_erhvervsmaessig_persontransport/"
+        },
+        {
+          "id": "98a7aabfdca43f84",
+          "title": "Flextrafik",
+          "url": "https://midttrafik.dk/flextrafik/"
+        },
+        {
+          "id": "a2361f4fc45f10ff",
+          "title": "Midttrafiks udbudsportal",
+          "url": "https://www.ethics.dk/ethics/eo"
+        },
+        {
+          "id": "bb5e941e75787a87",
+          "title": "Tidligere udbud",
+          "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/tidligere-udbud/"
+        },
+        {
+          "id": "bcf7b5184ce943f8",
+          "title": "Igangværende udbud",
+          "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/igangvaerende-udbud/"
+        },
+        {
+          "id": "d3528c7e4daf81d2",
+          "title": "Kommunal kørsel",
+          "url": "https://midttrafik.dk/flextrafik/kommunal-koersel/"
+        }
+      ],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "sydtrafik",
+      "name": "Sydtrafik",
+      "url": "https://sydtrafik.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "error",
+      "items": [],
+      "last_success": null,
+      "error": "403 Client Error: Forbidden for url: https://sydtrafik.dk/"
+    },
+    {
+      "id": "fynbus",
+      "name": "FynBus",
+      "url": "https://fynbus.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "error",
+      "items": [],
+      "last_success": null,
+      "error": "403 Client Error: Forbidden for url: https://fynbus.dk/"
+    },
+    {
+      "id": "nt",
+      "name": "NT",
+      "url": "https://www.ntrejse.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [
+        {
+          "id": "c917d659194aea52",
+          "title": "Læs mere",
+          "url": "https://www.ntrejse.dk/din-rejse/flextrafik"
+        }
+      ],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "movia",
+      "name": "Movia",
+      "url": "https://www.moviatrafik.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "udbud",
+      "name": "Udbud.dk",
+      "url": "https://udbud.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "ted",
+      "name": "TED",
+      "url": "https://ted.europa.eu/da/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "fstyr",
+      "name": "Færdselsstyrelsen",
+      "url": "https://www.fstyr.dk/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    },
+    {
+      "id": "indeks",
+      "name": "Trafikselskaberne – omkostningsindeks",
+      "url": "https://www.trafikselskaberne.dk/flex-2025-omkostningsindeks/",
+      "checked_at": "2026-11-03T20:42:13+00:00",
+      "status": "ok",
+      "items": [
+        {
+          "id": "000fb5e79dc02db6",
+          "title": "FLEX 2025 diesel-omkostningsindeks marts 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/02/Flextrafik-FLEX2025-diesel-Marts-2026.pdf"
+        },
+        {
+          "id": "22cd4529b0824d02",
+          "title": "FLEX 2025 el-omkostningsindeks februar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/01/Flextrafik-FLEX2025-el-Februar-2026.pdf"
+        },
+        {
+          "id": "32774d0cc141c4c8",
+          "title": "FLEX 2025 diesel-omkostningsindeks januar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/Flextrafik-FLEX2025-Diesel_Januar-2026.pdf"
+        },
+        {
+          "id": "36c3bde9d8ae4afb",
+          "title": "FLEX 2025 diesel-omkostningsindeks juli 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/06/Flextrafik-FLEX2025-diesel-juli-2026.pdf"
+        },
+        {
+          "id": "381701f1015bf0fb",
+          "title": "FLEX 2025 el-omkostningsindeks april 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/03/Flextrafik-FLEX2025-el-April-2026.pdf"
+        },
+        {
+          "id": "3c8e846795cc65c6",
+          "title": "FLEX 2025 diesel-omkostningsindeks april 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/03/Flextrafik-FLEX2025-diesel-April-2026.pdf"
+        },
+        {
+          "id": "3d9ff4ca14ed20dd",
+          "title": "FLEX 2025 diesel-omkostningsindeks november 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/10/Flextrafik-FLEX2025-diesel-november-2026.pdf"
+        },
+        {
+          "id": "40e1396c20270b92",
+          "title": "FLEX 2025 diesel-omkostningsindeks november 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/FLEX2025-diesel-omkostningsindeks-2084598_1-003.pdf"
+        },
+        {
+          "id": "429d4e25ee809a47",
+          "title": "FLEX 2025 hybrid-omkostningsindeks august 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-hybrid-August-2026.pdf"
+        },
+        {
+          "id": "47400f601c44999c",
+          "title": "FLEX 2025 diesel-omkostningsindeks maj 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/04/Flextrafik-FLEX2025-diesel-Maj-2026.pdf"
+        },
+        {
+          "id": "4a574d191204afe0",
+          "title": "FLEX 2025 diesel-omkostningsindeks oktober 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/09/Flextrafik-FLEX2025-diesel-Oktober.pdf"
+        },
+        {
+          "id": "4b1adaf74484722f",
+          "title": "FLEX 2025 el-omkostningsindeks september 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-el-September-2026.pdf"
+        },
+        {
+          "id": "4f00fb69430a2182",
+          "title": "FLEX 2025 el-omkostningsindeks juli 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/06/Flextrafik-FLEX2025-el-juli-2026.pdf"
+        },
+        {
+          "id": "5016562ae8086733",
+          "title": "FLEX 2025 el-omkostningsindeks januar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/Flextrafik-FLEX2025-el_Januar-2026.pdf"
+        },
+        {
+          "id": "51e01cde2aec4f56",
+          "title": "FLEX 2025 hybrid-omkostningsindeks oktober 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/09/Flextrafik-FLEX2025-hybrid-Oktober.pdf"
+        },
+        {
+          "id": "54a7fc01d16619fc",
+          "title": "Bilag 5 Skabelon for kontraktkrav til nye udbud af Flextrafik – Vestdanmark",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/02/Bilag-5-Skabelon-for-kontraktkrav-til-nye-udbud-af-Flextrafik-2106907.1.0.pdf"
+        },
+        {
+          "id": "61025fce8317e4f8",
+          "title": "FLEX 2025 el-omkostningsindeks november 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/10/Flextrafik-FLEX2025-el-november-2026.pdf"
+        },
+        {
+          "id": "62a6f88134c7d6be",
+          "title": "FLEX 2025 diesel-omkostningsindeks juni 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/05/Flextrafik-FLEX2025-diesel-Juni-2026.pdf"
+        },
+        {
+          "id": "66e9b6ac9e4d13dd",
+          "title": "FLEX 2025 el-omkostningsindeks august 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-el-August-2026.pdf"
+        },
+        {
+          "id": "6f3c526ec532b8ad",
+          "title": "FLEX 2025 diesel-omkostningsindeks september 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-diesel-September-2026.pdf"
+        },
+        {
+          "id": "707efac9f81962fe",
+          "title": "Bilag 2 Modelberegning af TCO for flextrafik",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Bilag-2-Beregningsforudsaetninger-for-modelberegning-af-TCO-for-flextrafik-2-2114712_1.pdf"
+        },
+        {
+          "id": "787c01c07fa75e44",
+          "title": "FLEX 2025 hybrid-omkostningsindeks juni 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/05/Flextrafik-FLEX2025-hybrid-Juni-2026.pdf"
+        },
+        {
+          "id": "84ffe25620735f6d",
+          "title": "Bilag 3 Skabelon for kravspecifikation til brug af FLEX2025 i nye udbud",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/01/Bilag-3-Skabelon-for-kravspecifikation-til-brug-af-FLEX2025-i-nye-udbud-2046209.1.13.pdf"
+        },
+        {
+          "id": "8599e47938698306",
+          "title": "FLEX 2025 hybrid-omkostningsindeks juli 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/06/Flextrafik-FLEX2025-hybrid-juli-2026.pdf"
+        },
+        {
+          "id": "85c4b1741709bbc1",
+          "title": "FLEX 2025 diesel-omkostningsindeks august 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-diesel-August-2026.pdf"
+        },
+        {
+          "id": "92640e31fd302357",
+          "title": "FLEX 2025 hybrid-omkostningsindeks november 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/10/Flextrafik-FLEX2025-hybrid-november-2026.pdf"
+        },
+        {
+          "id": "953d7e9f8988e2f1",
+          "title": "FLEX 2025 diesel-omkostningsindeks december 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/FLEX-Diesel-Omkostningsindeks-december-2025.pdf"
+        },
+        {
+          "id": "9a52abf8aa11279a",
+          "title": "FLEX 2025 diesel-omkostningsindeks februar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/01/Flextrafik-FLEX2025-diesel-Februar-2026.pdf"
+        },
+        {
+          "id": "9adeba7339a0262e",
+          "title": "Skabelon for kravspecifikation til brug af FLEX2025 i nye udbud",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Bilag-3-Skabelon-for-kravspecifikation-til-brug-af-FLEX2025-i-nye-udbud-204-2114714_1.docx"
+        },
+        {
+          "id": "9c00d7e3dd485aa2",
+          "title": "FLEX 2025 el-omkostningsindeks oktober 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/09/Flextrafik-FLEX2025-el-Oktober.pdf"
+        },
+        {
+          "id": "9cb1ef6e08898503",
+          "title": "FLEX 2025 el-omkostningsindeks maj 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/04/Flextrafik-FLEX2025-el-Maj-2026.pdf"
+        },
+        {
+          "id": "9d6bdd6f4372dd62",
+          "title": "FLEX 2025 hybrid-omkostningsindeks december 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/FLEX-hybrid-Omkostningsindeks-december-2025.pdf"
+        },
+        {
+          "id": "a2460a7d0a7b8d8a",
+          "title": "FLEX 2025 hybrid-omkostningsindeks februar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/01/Flextrafik-FLEX2025-hybrid-Februar-2026.pdf"
+        },
+        {
+          "id": "a61c12ae084ee29a",
+          "title": "FLEX 2025 hybrid-omkostningsindeks september 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-hybrid-September-2026.pdf"
+        },
+        {
+          "id": "aae37541d738e76c",
+          "title": "FLEX 2025 hybrid-omkostningsindeks november 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/FLEX2025-hybridomkostningsindeks-2084600_1.pdf"
+        },
+        {
+          "id": "ab2b6af4c50bf196",
+          "title": "FLEX 2025 el-omkostningsindeks marts 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/02/Flextrafik-FLEX2025-el-Marts-2026.pdf"
+        },
+        {
+          "id": "ac66a8749211c969",
+          "title": "FLEX 2025 hybrid-omkostningsindeks maj 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/04/Flextrafik-FLEX2025-hybrid-Maj-2026.pdf"
+        },
+        {
+          "id": "b0a6cf2eff1859ca",
+          "title": "Bilag 4 Ændringsbestemmelser for FLEX2025 omkostningsindeks",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/01/Bilag-4-AEndringsbestemmelser-for-FLEX2025-omkostningsindeks-2105927.1.8.pdf"
+        },
+        {
+          "id": "b1495c056c748ad1",
+          "title": "FLEX 2025 hybrid-omkostningsindeks april 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/03/Flextrafik-FLEX2025-hybrid-April-2026.pdf"
+        },
+        {
+          "id": "bcbf3af11a8454e9",
+          "title": "FLEX 2025 el-omkostningsindeks november 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/FLEX2025-el-omkostningsindeks-2084601_1.pdf"
+        },
+        {
+          "id": "c28086e76cebd33d",
+          "title": "FLEX 2025 hybrid-omkostningsindeks marts 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/02/Flextrafik-FLEX2025-hybrid-Marts-2026.pdf"
+        },
+        {
+          "id": "c3081111f9809613",
+          "title": "FLEX 2025 el-omkostningsindeks juni 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/05/Flextrafik-FLEX2025-el-Juni-2026.pdf"
+        },
+        {
+          "id": "c7c1d80cb840d786",
+          "title": "FLEX 2025 hybrid-omkostningsindeks januar 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/Flextrafik-FLEX2025-hybrid_Januar-2026.pdf"
+        },
+        {
+          "id": "d087d872c6ed8365",
+          "title": "Ændringsbestemmelser for FLEX2025 omkostningsindeks.",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Bilag-4-AEndringsbestemmelser-for-FLEX2025-omkostningsindeks-2105927__1-1-2118401_1.docx"
+        },
+        {
+          "id": "d0a888d74cd7d7de",
+          "title": "FLEX 2025 el-omkostningsindeks december 2025",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/FLEX-el-Omkostningsindeks-december-2025.pdf"
+        },
+        {
+          "id": "e614deb9a9f49942",
+          "title": "Bilag 1 Kommissorium for udvikling af omkostningsindeks for flextrafik",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Bilag-1-Kommissorium-for-udvikling-af-omkostningsindeks-for-flextrafik-1997-2114711_1.pdf"
+        },
+        {
+          "id": "eed5b8e8f6d930fe",
+          "title": "Nyt Omkostningsindeks for Flextrafik – Afrapportering",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Nyt-Omkostningsindeks-for-Flextrafik-Afrapportering-2034787__1-2114709_1.pdf"
+        }
+      ],
+      "last_success": "2026-11-03T20:42:13+00:00",
+      "error": null
+    }
+  ]
+}
