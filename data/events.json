@@ -1,5 +1,32 @@
 [
   {
+    "id": "fa768bf9f7edc7dcb6df",
+    "detected_at": "2026-11-25T17:12:17+00:00",
+    "source": "Trafikselskaberne – omkostningsindeks",
+    "title": "FLEX 2025 diesel-omkostningsindeks december 2026",
+    "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-diesel-December-2026.pdf",
+    "type": "new_link",
+    "verification": "Kræver manuel kontrol af udbud, status og frist"
+  },
+  {
+    "id": "1140f23d7735cb3b1a96",
+    "detected_at": "2026-11-25T17:12:17+00:00",
+    "source": "Trafikselskaberne – omkostningsindeks",
+    "title": "FLEX 2025 hybrid-omkostningsindeks december 2026",
+    "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-hybrid-December-2026.pdf",
+    "type": "new_link",
+    "verification": "Kræver manuel kontrol af udbud, status og frist"
+  },
+  {
+    "id": "e9f95935aef22182a322",
+    "detected_at": "2026-11-25T17:12:17+00:00",
+    "source": "Trafikselskaberne – omkostningsindeks",
+    "title": "FLEX 2025 el-omkostningsindeks december 2026",
+    "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-el-December-2026.pdf",
+    "type": "new_link",
+    "verification": "Kræver manuel kontrol af udbud, status og frist"
+  },
+  {
     "id": "ce13edd3354a0c9e5d85",
     "detected_at": "2026-11-17T09:11:51+00:00",
     "source": "Midttrafik – igangværende",

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T15:17:50+00:00",
+  "updated_at": "2026-11-25T17:12:17+00:00",
   "monitoring": "periodisk, ikke realtid",
   "sources": [
     {
       "id": "midttrafik",
       "name": "Midttrafik – igangværende",
       "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/igangvaerende-udbud/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [
         {
@@ -45,14 +45,14 @@
           "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/"
         }
       ],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "midttrafik_all",
       "name": "Midttrafik – Flextrafik",
       "url": "https://midttrafik.dk/udbud/udbud-flextrafik-og-specialkoersel/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [
         {
@@ -111,14 +111,14 @@
           "url": "https://midttrafik.dk/flextrafik/kommunal-koersel/"
         }
       ],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "sydtrafik",
       "name": "Sydtrafik",
       "url": "https://sydtrafik.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "error",
       "items": [],
       "last_success": null,
@@ -128,7 +128,7 @@
       "id": "fynbus",
       "name": "FynBus",
       "url": "https://fynbus.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "error",
       "items": [],
       "last_success": null,
@@ -138,7 +138,7 @@
       "id": "nt",
       "name": "NT",
       "url": "https://www.ntrejse.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [
         {
@@ -147,60 +147,65 @@
           "url": "https://www.ntrejse.dk/din-rejse/flextrafik"
         }
       ],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "movia",
       "name": "Movia",
       "url": "https://www.moviatrafik.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "udbud",
       "name": "Udbud.dk",
       "url": "https://udbud.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "ted",
       "name": "TED",
       "url": "https://ted.europa.eu/da/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "fstyr",
       "name": "Færdselsstyrelsen",
       "url": "https://www.fstyr.dk/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     },
     {
       "id": "indeks",
       "name": "Trafikselskaberne – omkostningsindeks",
       "url": "https://www.trafikselskaberne.dk/flex-2025-omkostningsindeks/",
-      "checked_at": "2026-11-25T15:17:50+00:00",
+      "checked_at": "2026-11-25T17:12:17+00:00",
       "status": "ok",
       "items": [
         {
           "id": "000fb5e79dc02db6",
           "title": "FLEX 2025 diesel-omkostningsindeks marts 2026",
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/02/Flextrafik-FLEX2025-diesel-Marts-2026.pdf"
+        },
+        {
+          "id": "1fd0bbc5e9c153ed",
+          "title": "FLEX 2025 diesel-omkostningsindeks december 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-diesel-December-2026.pdf"
         },
         {
           "id": "22cd4529b0824d02",
@@ -368,6 +373,11 @@
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/08/Flextrafik-FLEX2025-hybrid-September-2026.pdf"
         },
         {
+          "id": "aa549bfbbbd4f8c9",
+          "title": "FLEX 2025 hybrid-omkostningsindeks december 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-hybrid-December-2026.pdf"
+        },
+        {
           "id": "aae37541d738e76c",
           "title": "FLEX 2025 hybrid-omkostningsindeks november 2025",
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/FLEX2025-hybridomkostningsindeks-2084600_1.pdf"
@@ -423,6 +433,11 @@
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/12/FLEX-el-Omkostningsindeks-december-2025.pdf"
         },
         {
+          "id": "d8ff2cdd1fbebf68",
+          "title": "FLEX 2025 el-omkostningsindeks december 2026",
+          "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2026/11/Flextrafik-FLEX2025-el-December-2026.pdf"
+        },
+        {
           "id": "e614deb9a9f49942",
           "title": "Bilag 1 Kommissorium for udvikling af omkostningsindeks for flextrafik",
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Bilag-1-Kommissorium-for-udvikling-af-omkostningsindeks-for-flextrafik-1997-2114711_1.pdf"
@@ -433,7 +448,7 @@
           "url": "https://www.trafikselskaberne.dk/wp-content/uploads/2025/11/Nyt-Omkostningsindeks-for-Flextrafik-Afrapportering-2034787__1-2114709_1.pdf"
         }
       ],
-      "last_success": "2026-11-25T15:17:50+00:00",
+      "last_success": "2026-11-25T17:12:17+00:00",
       "error": null
     }
   ]
